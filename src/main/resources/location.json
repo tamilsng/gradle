@@ -1,0 +1,58 @@
+{
+	"Meta": {
+		"uuid": "edb970e6-d0fb-425e-a1ea-397594fa0621",
+		"count": 2,
+		"errors": []
+	},
+	"response": {
+		"locations": [
+			{
+				"id": "4549017680579312061",
+				"locationName": "Yext",
+				"address1": "7900 Westpark Drive",
+				"address2": "Suite T200",
+				"city": "McLean",
+				"state": "VA",
+				"zip": "22102",
+				"country": "USA",
+				"lat": 38.9246498,
+				"long": -77.2169181,
+				"distance": 10,
+				"phone": "8884442988",
+				"category": "Branch",
+				"features": [
+					"Checking",
+					"Savings",
+					"Credit Cards",
+					"Mortgages",
+					"Student Banking",
+					"Small Business Banking",
+					"Loans",
+					"Lines of Credit",
+					"Debit/ATM Cards",
+					"Money Market Savings"
+				],
+				"websiteUrl": "https://locations.yext.com/us/va/mclean/7900-westpark-drive.html",
+				"description": "Yext is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+				"longDescription": "Yext is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+				"openHours": "2:9:00:17:00,3:9:00:17:00,4:9:00:17:00,5:9:00:18:00,6:9:00:18:00,7:9:00:14:00",
+				"operatingATMHours": "Open 24 hours\n7 days a week",
+				"detailsOfATM": [
+					"Walk-up",
+					"Accepts Deposits",
+					"Cash Despense"
+				],
+				"folderId": "0",
+				"locationType": "LOCATION",
+				"isoRegionCode": "VA",
+				"schemaTypes": [
+					"LocalBusiness"
+				],
+				"language": "en",
+				"timestamp": 1578037870942,
+				"timezone": "America/New_York",
+				"accountId": "8894837093285077782"
+			}
+		]
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"Meta": {
+		"uuid": "edb970e6-d0fb-425e-a1ea-397594fa0621",
+		"count": 2,
+		"errors": []
+	},
+	"response": {
+		"locations": [
+			{
+				"id": "4549017680579312061",
+				"locationName": "Yext",
+				"address1": "7900 Westpark Drive",
+				"address2": "Suite T200",
+				"city": "McLean",
+				"state": "VA",
+				"zip": "22102",
+				"country": "USA",
+				"lat": 38.9246498,
+				"long": -77.2169181,
+				"distance": 10,
+				"phone": "8884442988",
+				"category": "Branch",
+				"features": [
+					"Checking",
+					"Savings",
+					"Credit Cards",
+					"Mortgages",
+					"Student Banking",
+					"Small Business Banking",
+					"Loans",
+					"Lines of Credit",
+					"Debit/ATM Cards",
+					"Money Market Savings"
+				],
+				"websiteUrl": "https://locations.yext.com/us/va/mclean/7900-westpark-drive.html",
+				"description": "Yext is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+				"folderId": "0",
+				"locationType": "LOCATION",
+				"isoRegionCode": "VA",
+				"schemaTypes": [
+					"LocalBusiness"
+				],
+				"language": "en",
+				"timestamp": 1578037870942,
+				"timezone": "America/New_York",
+				"accountId": "8894837093285077782"
+			},
+			{
+				"id": "6347159718268622021",
+				"locationName": "Yext2",
+				"address1": "500 West Madison St",
+				"address2": "Suite T202",
+				"city": "Chicago",
+				"state": "IL",
+				"zip": "60661",
+				"country": "USA",
+				"lat": 41.8823062,
+				"long": -87.6403882,
+				"distance": 25,
+				"phone": "2129943900",
+				"category": "ATM",
+				"features": [
+					"Checking",
+					"Savings",
+					"Credit Cards",
+					"Student Banking",
+					"Small Business Banking",
+					"Debit/ATM Cards",
+					"Money Market Savings"
+				],
+				"websiteUrl": "https://locations.yext.com/us/il/chicago/500-west-madison-st-.html",
+				"description": "Yext2 is the global digital knowledge management leader, and our Knowledge Engine puts businesses in control of their digital knowledge.",
+				"folderId": "0",
+				"locationType": "LOCATION",
+				"isoRegionCode": "IL",
+				"schemaTypes": [
+					"LocalBusiness"
+				],
+				"language": "en",
+				"timestamp": 1578037870942,
+				"timezone": "America/Chicago",
+				"accountId": "8894837093285077782"
+			}
+		]
+	}
+}

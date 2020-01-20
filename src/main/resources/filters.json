@@ -1,0 +1,19 @@
+{
+	"type": [
+		"Branch",
+		"ATM"
+	],
+	"atmFeature": [
+		"Talking ATM",
+		"NFC Enabled ATM"
+	],
+	"distance": [
+		"1 mile",
+		"2 mile",
+		"3 Mile"
+	],
+	"operatingStatus": [
+		"open",
+		"closed"
+	]
+}
